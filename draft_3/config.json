@@ -1,0 +1,6 @@
+{
+    "ollama_api_url": "http://localhost:11434",
+    "output_file_path": "./output/",
+    "logging_level": "INFO"
+}
+

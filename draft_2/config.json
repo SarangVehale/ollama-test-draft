@@ -1,0 +1,6 @@
+ma_api_key": "your_ollama_api_key_here",
+  "input_file_path": "./data/",
+  "output_file_path": "./output/",
+  "logging_level": "INFO"
+}
+

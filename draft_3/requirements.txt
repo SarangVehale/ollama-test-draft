@@ -1,0 +1,14 @@
+
+#Tndas
+numpy
+scikit-learn
+pytesseract
+pillow
+openpyxl
+tabulate
+requests
+llama-index  # If you plan to use Ollama
+python-dotenv
+pdfplumber
+pandas
+ollama

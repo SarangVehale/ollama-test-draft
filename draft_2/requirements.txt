@@ -1,0 +1,12 @@
+
+Tndas==1.5.3
+numpy==1.24.2
+scikit-learn==1.2.1
+pytesseract==0.3.10
+pillow==9.5.0
+openpyxl==3.1.2
+tabulate==0.9.0
+requests==2.28.2
+llama-index==0.5.5  # If you plan to use Ollama
+python-dotenv==1.0.0
+
